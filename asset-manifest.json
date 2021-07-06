@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/My-Big-Dish/static/js/main.23e28761.chunk.js",
-    "main.js.map": "/My-Big-Dish/static/js/main.23e28761.chunk.js.map",
+    "main.js": "/My-Big-Dish/static/js/main.11215f28.chunk.js",
+    "main.js.map": "/My-Big-Dish/static/js/main.11215f28.chunk.js.map",
     "runtime-main.js": "/My-Big-Dish/static/js/runtime-main.99cba2f7.js",
     "runtime-main.js.map": "/My-Big-Dish/static/js/runtime-main.99cba2f7.js.map",
     "static/js/2.8918dfca.chunk.js": "/My-Big-Dish/static/js/2.8918dfca.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.99cba2f7.js",
     "static/js/2.8918dfca.chunk.js",
-    "static/js/main.23e28761.chunk.js"
+    "static/js/main.11215f28.chunk.js"
   ]
 }
